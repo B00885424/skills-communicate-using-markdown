@@ -17,3 +17,9 @@ this is the default formatting for code text
 ``` java
 System.out.println("this is the formatting for java");
 ```
+
+example of a task list
+- [x] basically means to do list
+- [x] add these changes
+- [ ] all changes pass tests first try
+- [x] get coffee
