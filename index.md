@@ -5,4 +5,6 @@
 ##### An `<h5>` header with 5 hashtags
 ###### An `<h6>` header with 6 hashtags
 
-I gave the first 2 lines to copilot and it automated the rest >:)
+I gave the first 2 lines of headers to copilot and it automated the rest >:)
+
+![Image of Octocat as Chell](https://octodex.github.com/images/chellocat.jpg)
