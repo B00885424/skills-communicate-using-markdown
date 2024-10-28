@@ -8,3 +8,12 @@
 I gave the first 2 lines of headers to copilot and it automated the rest >:)
 
 ![Image of Octocat as Chell](https://octodex.github.com/images/chellocat.jpg)
+
+
+```
+this is the default formatting for code text
+```
+
+``` java
+System.out.println("this is the formatting for java");
+```
